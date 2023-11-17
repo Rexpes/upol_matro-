@@ -1,0 +1,1 @@
+# Symbolické výrazy
