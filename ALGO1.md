@@ -26,3 +26,16 @@ Vykonávání instrukcí podle algoritmu se vstupem I se po konečném počtu kr
     *minus* - ten přepis pro implementaci do programovacího jazyka
   - Další: (např. vývojové diagramy)
 
+- **Správnost algoritmu**\
+Pro každý algoritmus musíme ověřit zdali je správný (algoritmus pro každý možný vstup skončí po určitém počtu kroků se správným výstupem).\
+Abychom dokázali, že algoritmus není správný, musíme najít důkaz (příklad vstupu, který dostane špatný výstup nebo algoritmus neskončí vůbec).
+- **Složitost algoritmu**\
+Dává informaci, jak je algoritmus kvalitní a můžeme ho porovnávat s jinými algoritmy
+  - *Časová složitost* - rychlost vykonávání algoritmu nehledě na hardware (počet kroků)\
+  vyjadřuje závislost trvání výpočtu algoritmu na velikosti vstupních dat (pro každý vstup může být jiná doba výpočtu)\
+  je to tedy funkce (zobrazení), která přiřadí velikosti vstupních dat trvání výpočtu (číslo)\
+  funkce T: N -> N, n (velikost vstupu) -> T(n) (trvání výpočtu, to počítáme v instrukcích, které algoritmus musí pro daný vstup vykonat; v nejhorším případě/v průměrném případě)
+  - *Paměťová složitost* - kolik paměti bude potřebovat
+- **Optimalita algoritmu**\
+Můžeme dokázat, že existuje (nebo neexistuje) efektivnější/lepší algoritmus pro řešení daného problému.
+
