@@ -39,8 +39,14 @@ Dává informaci, jak je algoritmus kvalitní a můžeme ho porovnávat s jiným
 - **Optimalita algoritmu**\
 Můžeme dokázat, že existuje (nebo neexistuje) efektivnější/lepší algoritmus pro řešení daného problému.
 
-##Složitost
-**Třídy složitosti
+## Složitost
+**Třídy složitosti**
+Při analýze složitosti algoritmů se často vyskytují některé funkce:
+
 ![image](https://github.com/Rexpes/upol_matros/assets/76534008/3efc84e8-ab38-44ac-af2f-ae5e83bdd59d)
 
+Stručně řečeno, algoritmus se složitostí T(n) = 10n + 2, popř. T(n) = nˇ2 je prakticky použitelný.
+Algoritmus se složitostí T(n) = 2ˇn je prakticky nepoužitelný.
 
+Informace o složitosti může být ”zbytečně“ přesná (2nˇ2 + 4n − 5), tj. že může postačovat hrubší informace. V tomto případě např. může stačit vědět, že složitosti v nejhorším případě je polynom druhého stupně. Zakryjeme nepodstatné nebo méně podstatné
+(např. konstantu 4, členy 4n a −5) a zdůrazníme podstatné (nˇ2).
