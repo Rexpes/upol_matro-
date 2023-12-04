@@ -40,7 +40,7 @@ Dává informaci, jak je algoritmus kvalitní a můžeme ho porovnávat s jiným
 Můžeme dokázat, že existuje (nebo neexistuje) efektivnější/lepší algoritmus pro řešení daného problému.
 
 ## Složitost
-**Třídy složitosti**
+**Třídy složitosti** <br>
 Při analýze složitosti algoritmů se často vyskytují některé funkce:
 
 ![image](https://github.com/Rexpes/upol_matros/assets/76534008/3efc84e8-ab38-44ac-af2f-ae5e83bdd59d)
@@ -48,9 +48,19 @@ Při analýze složitosti algoritmů se často vyskytují některé funkce:
 Stručně řečeno, algoritmus se složitostí T(n) = 10n + 2, popř. T(n) = nˇ2 je prakticky použitelný.
 Algoritmus se složitostí T(n) = 2ˇn je prakticky nepoužitelný.
 
+**Proč není dobré měřit trvání výpočtu např. v sekundách?** <br>
+Protože je to příliš závislé na implementaci algoritmu (jazyk, překladač, zařízení,...)
+trvání výpočtu = počet elementárních výpočetních kroků
+
+O-notace a růst funkcí<br>
+
 Informace o složitosti může být ”zbytečně“ přesná (2nˇ2 + 4n − 5), tj. že může postačovat hrubší informace. V tomto případě např. může stačit vědět, že složitosti v nejhorším případě je polynom druhého stupně. Zakryjeme nepodstatné nebo méně podstatné
 (např. konstantu 4, členy 4n a −5) a zdůrazníme podstatné (nˇ2).
 
-**Proč není dobré měřit trvání výpočtu např. v sekundách?**
-Protože je to příliš závislé na implementaci algoritmu (jazyk, překladač, zařízení,...)
-trvání výpočtu = počet elementárních výpočetních kroků
+Jde nám o to, jak rychle složitost jako funkce T(n) „roste“
+
+Z tohoto pohledu je člen −5 nevýznamný (konstanta, nepřispívá k růstu), člen 2n má větší význam, ale přispívá k růstu mnohem méně než člen 2nˇ2.
+Je tedy přirozené členy −5 a 4n zanedbat.
+Proč ale zanedbat konstantu 4? Dva důvody.
+1. Představuje konstantní faktor růstu, to podstatné je nˇ2.
+2. Velikost konstanty závisí na (pseudo)kódu.
