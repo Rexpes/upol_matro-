@@ -39,3 +39,8 @@ Dává informaci, jak je algoritmus kvalitní a můžeme ho porovnávat s jiným
 - **Optimalita algoritmu**\
 Můžeme dokázat, že existuje (nebo neexistuje) efektivnější/lepší algoritmus pro řešení daného problému.
 
+##Složitost
+**Třídy složitosti
+![image](https://github.com/Rexpes/upol_matros/assets/76534008/3efc84e8-ab38-44ac-af2f-ae5e83bdd59d)
+
+
