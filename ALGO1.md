@@ -50,3 +50,7 @@ Algoritmus se složitostí T(n) = 2ˇn je prakticky nepoužitelný.
 
 Informace o složitosti může být ”zbytečně“ přesná (2nˇ2 + 4n − 5), tj. že může postačovat hrubší informace. V tomto případě např. může stačit vědět, že složitosti v nejhorším případě je polynom druhého stupně. Zakryjeme nepodstatné nebo méně podstatné
 (např. konstantu 4, členy 4n a −5) a zdůrazníme podstatné (nˇ2).
+
+**Proč není dobré měřit trvání výpočtu např. v sekundách?**
+Protože je to příliš závislé na implementaci algoritmu (jazyk, překladač, zařízení,...)
+trvání výpočtu = počet elementárních výpočetních kroků
