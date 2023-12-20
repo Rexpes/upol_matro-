@@ -1,0 +1,10 @@
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/3585837c-df7d-4b4f-ae81-843198d5c28b)\
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/9840517c-5520-4076-ba94-882d93979e18)\
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/651b360c-84f5-4cf4-a9e2-d3907cf939e2)\
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/2c3e32bf-f069-4440-8c6d-b7e58ba31ca3)\
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/ca4d9c57-7566-44b4-be4d-d72d887ed8cb)\
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/4846826e-4329-4a49-b98f-6d6f585de4d7)\
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/4b267b32-8d64-4515-8478-d7842bb4de1e)\
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/18d089bf-e7d5-4b0b-8fb5-7db5a95dac51)\
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/0e3d7184-d7ac-4186-a51b-d385a0e95a23)\
+![obrazek](https://github.com/Rexpes/upol_matros/assets/84129869/139928fa-670a-4c89-b604-f6b4a07ff21d)
